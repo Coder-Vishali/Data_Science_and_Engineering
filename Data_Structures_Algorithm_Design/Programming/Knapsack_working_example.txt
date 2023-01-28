@@ -1,0 +1,30 @@
+Item1: 5, 50Rs
+Item2: 20, 140Rs
+Item3: 10, 60Rs
+
+Capacity: 30 Kg
+
+Step1: Benefit/Weight:
+-------------------------
+Item1 | 50/5   = 10
+Item2 | 140/20 = 7
+Item3 | 60/10  = 6
+
+Step2: Sorted (Descending order)
+--------------------------
+Item 1| 10
+Item 2| 7
+Item 3| 6
+
+Step3: Calculate
+----------
+30 - 5 = 25 [ Item 1]
+25 - 20 = 5  [ Item 2]
+5/10=0.5 of [ Item 3]
+
+Step4: Total Benefit
+--------------
+Item1 + Item2 + 0.5 * Item3
+= 50 + 140 + 0.5 * 60
+= 50 + 140 + 30
+= 220 Rs.

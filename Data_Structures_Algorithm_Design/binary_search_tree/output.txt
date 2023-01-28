@@ -1,0 +1,19 @@
+9, Binary Tree Created with the employee details             (from file abc_emp_dataPS13.txt)
+----------------------------------Search by ID----------------------------------
+1004 Rajesh Sharma
+1005 not found
+1006 Mark Antony
+1009 Arun Kumar
+1105 Najeem Ali
+--------------------------------------------------------------------------------
+-----------------------------Search by Name: Rajesh-----------------------------
+Rajesh Sharma 1004
+Divya Rajesh 1013
+Sony Rajesh 1015
+Rajesh Nair 1103
+--------------------------------------------------------------------------------
+-----------------List Employees by Designation: Project Manager-----------------
+Jordan Leon 1012
+Sony Rajesh 1015
+Anvar Mohamed 1017
+--------------------------------------------------------------------------------
